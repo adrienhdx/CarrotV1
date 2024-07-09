@@ -1,0 +1,4 @@
+repository "CarrotV1@lopalino@cloud"
+  path "/"
+    br "/main"
+    co "/main"
